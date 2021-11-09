@@ -1,0 +1,14 @@
+{
+  "name": "poste_aki",
+  "version": "1.0.0",
+  "description": "Mural para publicação de avisos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Targino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
