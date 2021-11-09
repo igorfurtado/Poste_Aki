@@ -42,7 +42,7 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Poste Aki](https://user-images.githubusercontent.com/70289587/140985101-68a8e9ba-0026-4bc6-8fb8-3008a6c8348f.png)
 
 
 ## Tech Stack
