@@ -10,7 +10,11 @@ Por meio desta aplicação é possível:
     - Deletar postagens existentes;
     - Visualizar todas as publicações.
 
+OBS: para permitir que requisições de outro domínio apontem para o seu servidor (localhost), é necessária a instalação do cors e implementação de uma whiteList.
 
+```bash
+  npm install cors
+```
 
 
 ## Run Locally
